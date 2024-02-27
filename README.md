@@ -6,5 +6,6 @@ Mildly useful tools for CTF and stuff.
 - Ethereum state explorer: [eth](https://github.com/brownie-in-motion/eth).
 - Online TeX renderer: [tex](https://github.com/ginkoid/tex).
 - CORS proxy: [moo](https://gist.github.com/brownie-in-motion/37a239f7004a926601a1710566ffaecc).
+- NY Times crosswords: [num](https://github.com/brownie-in-motion/num).
 
 Proudly sponsored by the Frog Software Foundation.
